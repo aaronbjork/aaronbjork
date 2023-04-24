@@ -1,4 +1,4 @@
-👋 Hi, I’m @aaronbjork. I work on Azure IoT at Microsoft.
+👋 Hi, I’m @aaronbjork. I work at Microsoft.
 
 <!---
 aaronbjork/aaronbjork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
